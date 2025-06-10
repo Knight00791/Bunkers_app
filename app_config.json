@@ -1,5 +1,5 @@
 {
-  "force_update": true,
+  "force_update": false,
   "shutdown": false,
   "update_message": "A new version is available! Please update.",
   "shutdown_message": "This app is no longer supported.",
