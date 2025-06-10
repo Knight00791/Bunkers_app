@@ -1,6 +1,7 @@
-   {
-     "force_update": false,
-     "shutdown": false,
-     "update_message": "A new version is available! Please contact @joinbunkers for new version.",
-     "shutdown_message": "This app is no longer supported."
-   }
+{
+  "force_update": true,
+  "shutdown": false,
+  "update_message": "A new version is available! Please update.",
+  "shutdown_message": "This app is no longer supported.",
+  "update_link": "https://your-new-app-link.com"
+}
