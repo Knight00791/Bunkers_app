@@ -286,8 +286,7 @@ This project distributes APK files via GitHub Releases. We welcome:
 ### **Contact Information**
 - **Email**: [bunkers.contact@gmail.com]
 - **GitHub**: [https://github.com/Knight00791]
-- **Issues**: [GitHub Issues Page](https://github.com/yourusername/bunkers/issues)
-- **Releases**: [GitHub Releases Page](https://github.com/yourusername/bunkers/releases)
+- **Releases**: [GitHub Releases Page](https://github.com/Knight00791/Bunkers_app/releases/tag/bunkers.apk)
 
 ---
 
