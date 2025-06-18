@@ -264,7 +264,7 @@ The app includes a sophisticated remote configuration system that allows:
 
 ### **Version History**
 - **v1.0.0-beta.1** - Initial beta release with core features
-- **Future versions** - See [Releases Page](https://github.com/yourusername/bunkers/releases)
+- **Future versions** - See [Releases Page](https://github.com/Knight00791/Bunkers_app/releases/tag/bunkers.apk)
 
 ---
 
