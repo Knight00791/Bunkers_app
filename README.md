@@ -9,7 +9,7 @@
   [![Dart](https://img.shields.io/badge/Dart-3.2.3+-blue.svg)](https://dart.dev/)
   [![License](https://img.shields.io/badge/License-Private-red.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
-  [![APK](https://img.shields.io/badge/APK-Download-orange.svg)](https://github.com/yourusername/bunkers/releases)
+  [![APK](https://img.shields.io/badge/APK-Download-orange.svg)](https://github.com/Knight00791/Bunkers_app/releases/download/bunkers.apk/app-release.apk)
 </div>
 
 ---
