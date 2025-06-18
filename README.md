@@ -44,7 +44,7 @@
 [![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)](https://github.com/Knight00791/Bunkers_app/releases/download/bunkers.apk/app-release.apk)
 
 #### **📦 GitHub Releases**
-Visit our [Releases Page](https://github.com/Knight00791/Bunkers_app/releases/download/bunkers.apk) for:
+Visit our [Releases Page](https://github.com/Knight00791/Bunkers_app/releases/tag/bunkers.apk) for:
 - Latest stable version
 - Previous versions
 - Release notes and changelog
@@ -284,8 +284,8 @@ This project distributes APK files via GitHub Releases. We welcome:
 4. **Share Feedback** - Provide user experience insights
 
 ### **Contact Information**
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [bunkers.contact@gmail.com]
+- **GitHub**: [https://github.com/Knight00791]
 - **Issues**: [GitHub Issues Page](https://github.com/yourusername/bunkers/issues)
 - **Releases**: [GitHub Releases Page](https://github.com/yourusername/bunkers/releases)
 
