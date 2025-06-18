@@ -41,10 +41,10 @@
 ### **Download Options**
 
 #### **📱 Direct APK Download**
-[![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)](https://github.com/Knight00791/Bunkers_app/releases/latest/download/bunkers.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)](https://github.com/Knight00791/Bunkers_app/releases/download/bunkers.apk/app-release.apk)
 
 #### **📦 GitHub Releases**
-Visit our [Releases Page](https://github.com/Knight00791/Bunkers_app/releases) for:
+Visit our [Releases Page](https://github.com/Knight00791/Bunkers_app/releases/download/bunkers.apk) for:
 - Latest stable version
 - Previous versions
 - Release notes and changelog
