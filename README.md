@@ -1,7 +1,7 @@
 # 🎓 Bunkers - Smart Attendance Tracker & Bunk Planner
 
 <div align="center">
-  <img src="assets/launcher_icon.png" alt="Bunkers Logo" width="120" height="120">
+<!--   <img src="assets/launcher_icon.png" alt="Bunkers Logo" width="120" height="120"> -->
   
   **Your Intelligent Bunk Manager for Academic Success**
   
@@ -41,10 +41,10 @@
 ### **Download Options**
 
 #### **📱 Direct APK Download**
-[![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)](https://github.com/yourusername/bunkers/releases/latest/download/bunkers.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)](https://github.com/Knight00791/Bunkers_app/releases/latest/download/bunkers.apk)
 
 #### **📦 GitHub Releases**
-Visit our [Releases Page](https://github.com/yourusername/bunkers/releases) for:
+Visit our [Releases Page](https://github.com/Knight00791/Bunkers_app/releases) for:
 - Latest stable version
 - Previous versions
 - Release notes and changelog
